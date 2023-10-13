@@ -8,7 +8,7 @@ In this research, we propose a multi-stage AI-based framework called “open Fau
 
 Please refer to the main paper for further details:
 
-https://ieeexplore.ieee.org/abstract/document/10077215/figures#figures
+[Link-to-the-paper](https://doi.org/10.1109/MWC.004.2200244)
 
 If you use this code please cite this work as:
 
